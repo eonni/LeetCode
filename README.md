@@ -1,3 +1,4 @@
-# This repository hosts Leetcode Python successful submissions code
+# LeetCode
+## Python solutions
 
 [My Leetcode profile](https://leetcode.com/ejnaibric1/)
